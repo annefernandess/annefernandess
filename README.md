@@ -4,8 +4,6 @@
   
 ##
 
-![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=annefernandess&show_icons=true&theme=tokyonight&rank_icon=github&include_all_commits=true)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Anne-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Anne-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
