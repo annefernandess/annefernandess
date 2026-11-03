@@ -4,7 +4,7 @@
 
 **Applied AI · Machine Learning · Data Science**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=640&lines=Turning+unstructured+data+into+auditable+insight;Building+RAG+pipelines+%26+vector+search;LLM+agents%2C+code+review+bots%2C+data+orchestration;Data+Science+%26+AI+student+at+UFPB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=640&lines=Turning+unstructured+data+into+auditable+insight;Building+RAG+pipelines+%26+vector+search;Data+Science+%26+AI+student+at+UFPB" alt="Typing SVG" />
 
 </div>
 
